@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Snake-Food-Game/static/css/main.4a8ce28b.css",
+    "main.js": "/Snake-Food-Game/static/js/main.404a7e7d.js",
+    "static/js/787.c5159145.chunk.js": "/Snake-Food-Game/static/js/787.c5159145.chunk.js",
+    "index.html": "/Snake-Food-Game/index.html",
+    "main.4a8ce28b.css.map": "/Snake-Food-Game/static/css/main.4a8ce28b.css.map",
+    "main.404a7e7d.js.map": "/Snake-Food-Game/static/js/main.404a7e7d.js.map",
+    "787.c5159145.chunk.js.map": "/Snake-Food-Game/static/js/787.c5159145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a8ce28b.css",
+    "static/js/main.404a7e7d.js"
+  ]
+}
